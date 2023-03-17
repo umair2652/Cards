@@ -10,7 +10,7 @@ const Navbar = () => {
             <nav className="navbar navbar-expand-md bg-primary navbar-dark">
                 <div className="container-fluid">
                     <a className="navbar-brand" href="#">
-                        <h5 class="d-inline bi bi-person-vcard "> Cloud Contact</h5>
+                        <h4 class="d-inline bi bi-person-vcard "> Cloud Contact</h4>
                     </a>
                     <button
                         className="navbar-toggler"
